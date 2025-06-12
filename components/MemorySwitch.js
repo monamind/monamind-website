@@ -1,0 +1,1 @@
+// Přepínač ukládání do paměti
