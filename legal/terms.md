@@ -1,1 +1,0 @@
-## Obchodní podmínky MonaMind
